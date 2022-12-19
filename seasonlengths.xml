@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<offsetentries>
+  <anime tvdbid="[tvdbid]" name="[Series Name]" note="Example entry for complete series">
+    [Season 2 Lengths]
+    [Season 3 Lengths]
+  </anime>
+  <anime tvdbid="378609" name="86">
+    12
+  </anime>
+  <anime tvdbid="405920" name="SPY x FAMILY">
+    13
+  </anime>
+</offsetentries>
